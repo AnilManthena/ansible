@@ -2,7 +2,7 @@
   hosts: localhost
   vars_prompt:
   - name: USERNAME
-    prompt: please enter your user name
+    prompt: please enter your username
     private: false
   - name: PASWWORD
     prompt: please enter your password
