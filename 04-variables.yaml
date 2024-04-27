@@ -3,7 +3,7 @@
   vars: #variable declaration
     Course: "Ansible"
     Trainer: "Sivakumar"
-    Durations: "120hrs"
+    Duration: "120hrs"
   tasks:
   - name: print information
     ansible.builtin.debug:
