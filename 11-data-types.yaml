@@ -2,7 +2,7 @@
   hosts: localhost
   vars:
     course: devops with AWS #string
-    tools: # list
+    Tools: # list
     - Linux
     - Shell
     - Ansible
